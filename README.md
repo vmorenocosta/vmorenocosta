@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vmorenocosta
+- 👋 Hi, I’m @vmorenocosta, Vitoria Moreno-Costa.
 - 👀 I’m a data scientist with strong domain knowledge in chemical engineering in biotech and the oil & gas industries.
 - 🌱 I’m currently learning new data science tools in the General Assembly Data Science Immersive bootcamp.
 - 📫 How to reach me at my username AT gmail DOT com
